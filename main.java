@@ -1,1 +1,3 @@
-package ThreadSafe;
+public class main{
+    
+}
